@@ -71,7 +71,6 @@
     <Compile Include="RepositoryPrefixAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="MongoDb.Repository.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
